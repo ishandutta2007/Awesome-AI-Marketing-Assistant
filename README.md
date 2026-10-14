@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Marketing-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Marketing-Assistant?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Marketing-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Marketing-Assistant?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Marketing-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Marketing-Assistant?style=flat-square&color=blue" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Marketing-Assistant/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Marketing-Assistant/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -80,9 +80,9 @@ The table below lists top commercial AI marketing assistants, **sorted in descen
 
 ## 💻 Open-Source AI Marketing & Growth Stacks
 
-Open-source marketing software empowers growth teams to build sovereign, customizable, and cost-effective marketing stacks. Below are the leading open-source repositories, **sorted in descending order by GitHub Stars**.
+Open-source marketing software empowers growth teams to build sovereign, customizable, and cost-effective marketing stacks. Below are the leading open-source repositories, **sorted in descending order by GitHub_Stars**.
 
-Each entry features a live GitHub star count badge that directly links to the repository's stargazers page.
+Each entry features a live GitHub Stars_Count badge that directly links to the repository's stargazers page.
 
 1. **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    Fair-code workflow automation platform with native LangChain & LLM nodes. Build autonomous multi-step marketing automation pipelines connecting CRMs, email tools, social networks, and local/cloud AI models.
